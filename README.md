@@ -2,7 +2,7 @@
 
 <h2> Networkng Project Projects:</h2>
 
-- <b>W3 Project 1: Restoring Router-to-Router Connectivity</b>
+- <b>W3 Project 1: Subneting and pinging</b>
   - [Praciting DS & Algos in Python](https://github.com/joshmadakor1/Algorithms-Practice)
 
 
